@@ -11,6 +11,7 @@ import org.testng.annotations.Test;
 			String URL = System.getProperty("url");
 			
 			System.out.println("BROWSER=====>"+BROWSER+",URL=======>"+URL);
+			System.out.println("=========");
 			
 			
 			
@@ -21,7 +22,6 @@ import org.testng.annotations.Test;
 		}
 		@Test(groups ="RegressionSuite")
 		public void deleteContactTest() {
-			System.out.println("execute deleteOrgTest");
-		}
+			System.out.println("execute deleteOrgTest");		}
 
 }
