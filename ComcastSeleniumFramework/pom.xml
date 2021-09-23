@@ -46,8 +46,6 @@
 				<configuration>
 					<suiteXmlFiles>
 					<suiteXmlFile>testng-SmokeTest.xml</suiteXmlFile>
-						
-						
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
